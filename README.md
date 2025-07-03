@@ -189,6 +189,13 @@ export default tseslint.config([
 
 ---
 
+## 🙏 Credits
+
+This project was inspired by [@LamaDev's Real Estate Website Tutorial](https://www.youtube.com/watch?v=AdcUinE5iYo) on YouTube.  
+Thanks for the great walkthrough and UI/UX guide! 🙌
+
+---
+
 ## 📜 License
 
 MIT
